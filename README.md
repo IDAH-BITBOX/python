@@ -1,2 +1,2 @@
-# python
-python practice
+# Python practice
+Target : Following up python documentation.
